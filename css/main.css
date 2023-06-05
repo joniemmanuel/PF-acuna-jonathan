@@ -2,9 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 120px;
+  height: 130px;
   margin: 0 auto;
-  
 }
 .header.logo {
   width: 100px;
